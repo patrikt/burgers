@@ -1,0 +1,98 @@
+Longitud,Latitud,Address,restaurant
+12.53056,57.92361,"Hantverksgatan 1 Alingsås",max
+21.70799,65.81734,"Lulevägen 27 Boden",max
+16.38848,61.34853,"Postgränd 6 Bollnäs",max
+15.43601,60.47693,"Åkrerondellen 7 Borlänge",max
+12.93371,57.73401,"Ålgårdsvägen 16 Borås",max
+17.08111,59.65278,"Romgatan 2 Enköping",max
+16.47011,59.37484,"Albertina Nyströmsv. 3 Eskilstuna",max
+16.46639,59.3925,"Västerleden 44 Eskilstuna",max
+12.51805,56.93167,"Mellangårdsvägen 6 Falkenberg",max
+15.64167,60.60444,"Tullkammaregatan 8 Falun",max
+17.16041,60.66007,"S:a Kungsvägen 8 Gävle",max
+17.13691,60.68083,"N:a Kungsgatan 45 Gävle",max
+12.10513,57.73754,"Allum 252, Nils Henrikssonsv 3 Göteborg",max
+11.98,57.706,"Gunnar Grens plats 1 Göteborg",max
+12.02963,57.72397,"Torpavallsgatan 4C Göteborg",max
+12.80364,56.67801,"Kundvägen 2 Halmstad",max
+12.90812,56.65844,"Snösvängen 1 Halmstad",max
+24.13335,65.84106,"Norra Esplanaden 8 Haparanda",max
+12.70213,56.04054,"Södergatan 15 Helsingborg",max
+12.76485,56.09213,"Björkavägen 103 Helsingborg",max
+12.85204,56.09957,"Vångavägen 6 Helsingborg",max
+14.22667,57.78056,"Hästhovsvägen 8 Jönköping",max
+14.17614,57.77349,"Herkulesvägen 1 Jönköping",max
+14.15294,57.76517,"Jordbrovägen 8 Jönköping",max
+16.31586,56.69138,"Guldfågeln Arena, Trångsundsvägen 40 Kalmar",max
+16.35389,56.6675,"Trädgårdsgatan 17 Kalmar",max
+14.52571,59.32497,"Viaduktgatan 4 Karlskoga",max
+15.63229,56.19543,"Lallerstedts gata 7 Karlskrona",max
+13.42536,59.37901,"Bergviksväg 29A Karlstad",max
+13.46839,59.38142,"Våxnäsgatan 158 Karlstad",max
+14.14483,56.02249,"Gamla Långebrogatan 42 Kristianstad",max
+15.97279,59.52036,"Ringvägen 74 Köping",max
+15.65716,58.41762,"Torvingegatan 1 Linköping",max
+15.59313,58.43483,"Svedengatan 11 Linköping",max
+13.90722,56.8125,"Nyponvägen 2 Ljungby",max
+22.1544,65.58531,"Timmermansgatan 19C Luleå",max
+22.13859,65.60239,"Midgårdsvägen 24 Luleå",max
+22.04153,65.61809,"Storhedsvägen 1C Luleå",max
+22.14797,65.59006,"Robertviksgatan 1 Luleå",max
+13.15624,55.71622,"Förhandlingsvägen 1 Lund",max
+13.18172,55.71144,"Kung Oscars väg 14 Lund",max
+12.98831,55.77137,"Handelsvägen 1 Löddeköpinge",max
+12.97194,55.56361,"Hyllie Stationsväg 22 Malmö",max
+13.00011,55.60554,"Stortorget 25 Malmö",max
+13.03861,55.57195,"Cypressvägen 6a Malmö",max
+15.08972,58.32389,"Armborstgatan 2 Mjölby",max
+16.15944,58.61194,"Koppargatan 2b Norrköping",max
+16.1898,58.59741,"Norra Promenaden 90A Norrköping",max
+16.97857,58.74833,"Gumsbackevägen 2 Nyköping",max
+17.02339,58.77317,"Stenbocksvägen 2 Nyköping",max
+21.47412,65.32063,"Källbogatan 6 Piteå",max
+20.95988,64.75089,"Kanalgatan 50 Skellefteå",max
+20.96351,64.73857,"Mackvägen 7 Skellefteå",max
+13.87419,58.40839,"Norra Metallvägen 2 Skövde",max
+17.92853,59.64765,"Arlanda Stockholm",max
+17.93443,59.65177,"Arlanda Stockholm",max
+17.930795,59.651127,"Arlanda Stockholm",max
+17.85438,59.4207,"Folkungav/G:a Enköpingsv Stockholm",max
+18.10321,59.30215,"Öppen Lugnets Allé 22 Stockholm",max
+17.92417,59.49583,"Breddenvägen 1 Stockholm",max
+17.94658,59.40244,"Kista Galleria Stockholm",max
+18.07174,59.33274,"Kungsträdgårdsgatan 20 Stockholm",max
+18.12944,59.2,"Lissmavägen 24 Stockholm",max
+17.854166,59.253163,"Fågelviksvägen 2 Stockholm",max
+18.032167,59.346746,"Hagaesplanaden 46 Stockholm",max
+17.99429,59.36046,"Huvudstagatan 2A Stockholm",max
+18.12889,59.46,"Antennvägen 4 Stockholm",max
+17.95695,59.35056,"Ulvsundavägen 160 Stockholm",max
+18.05735,59.33234,"Vasagatan 7 Stockholm",max
+17.8766,59.25138,"Masmovägen 2 Stockholm",max
+18.42505,59.31207,"Afrodites väg 3 Stockholm",max
+11.20562,59.06511,"Nordby köpcenter mellersta Strömstad",max
+17.34406,62.44239,"Antennvägen 5 Sundsvall",max
+17.31938,62.38698,"Landsvägsallén 5 Sundsvall",max
+17.60931,59.20225,"Ängsgatan 37 Södertälje",max
+12.29134,58.28535,"Kungsgatan 30 Trollhättan",max
+12.30583,58.31553,"Anes väg 4 Trollhättan",max
+11.81156,58.35169,"Herrestads Torp 310 Uddevalla",max
+20.2645,63.8257,"Kungsgatan 63 Umeå",max
+20.25942,63.82979,"V:a Esplanaden 20 Umeå",max
+17.69103,59.85037,"Bolandsgatan 22 Uppsala",max
+17.66553,59.88565,"Takpannegatan 33 Uppsala",max
+17.65777,59.86868,"Kvarnängsgatan 53 Uppsala",max
+17.63865,59.85886,"Stora Torget 6-8 Uppsala",max
+18.30357,57.63749,"Scheelegatan 10 Visby",max
+14.07426,57.16323,"Refugen 2 Värnamo",max
+16.46757,59.6129,"Traversgatan 3 Västerås",max
+16.6135,59.61269,"Fältmätargatan 26 Västerås",max
+16.57,59.61333,"Retortgatan 16 Västerås",max
+14.77521,56.87803,"Sambandsvägen 6 Växjö",max
+13.82101,55.4291,"Hamngatan 3 Ystad",max
+13.07803,63.40041,"Årevägen 108 H Åre",max
+15.22371,59.26692,"Rudbecksgatan 52 E Örebro",max
+15.13431,59.21289,"Kundvägen 2 Örebro",max
+15.20349,59.29738,"Boglundsgatan 2 Örebro",max
+18.7051,63.29073,"Stationsplan 9 Örnsköldsvik",max
+14.64362,63.16759,"Bangårdsgatan 10 Östersund",max

@@ -1,0 +1,315 @@
+longitud,latitud,address,restaurant,fill_type
+14.19821,57.77224,"McDonald´s - Sjukhusgatan 6, Jönköping",mcd,small_red
+14.20401,57.77422,"McDonald´s - A6Center, Jönköping",mcd,small_red
+17.92978,59.41382,"McDonald´s - Akalla - Finlandsgatan 11, Kista",mcd,small_red
+12.0464,57.8952,"McDonald´s - Ale Torg 18, Nödinge",mcd,small_red
+12.52961,57.92543,"McDonald´s - Bangatan 7, Alingsås",mcd,small_red
+17.97978,59.33288,"McDonald´s - Gustavslundsvägen 26, Bromma",mcd,small_red
+12.05020,57.79639,"McDonald´s - Angered Centrum 1, Angered",mcd,small_red
+11.97684,57.69938,"McDonald´s - Kungsportsavenyn 32, Göteborg",mcd,small_red
+11.95278,57.72129,"McDonald´s - Motorgatan 2, Göteborg",mcd,small_red
+17.85689,59.41825,"McDonald´s - Flyginfarten 6, Järfälla",mcd,small_red
+16.36407,56.66110,"McDonald´s - Skeppsbrogatan 12, Kalmar",mcd,small_red
+16.98062,58.74879,"McDonald´s - Bergshammarvägen 2, Nyköping",mcd,small_red
+13.42287,59.37765,"McDonald´s - Frykmans väg 1, Karlstad",mcd,small_red
+17.33765,62.44823,"McDonald´s - Birsta, Sundsvall",mcd,small_red
+12.93853,57.72034,"McDonald´s - Stora Brogatan 16, Borås",mcd,small_red
+15.65372,58.39898,"McDonald´s - Kylarevägen 2A, Linköping",mcd,small_red
+17.93831,59.33843,"McDonald´s - Tunnlandet 2, Bromma",mcd,small_red
+15.0040,59.0644,"McDonald´s - Brändåsen - Brändåsen, Kumla",mcd,small_red
+13.0856,55.6397,"McDonald´s - Kronetorpsvägen 2, Burlöv",mcd,small_red
+11.99924,57.77328,"McDonald´s - Transportgatan 8, Hisings Backa",mcd,small_red
+18.05921,59.32973,"McDonald´s - Stora hallen, Stockholm",mcd,small_red
+12.29022,59.88070,"McDonald´s - Charlottenberg Shopping Center, Charlottenberg",mcd,small_red
+17.91601,59.46999,"McDonald´s - Coop Forum, Sollentuna",mcd,small_red
+14.84704,56.18793,"McDonald´s - Nyemöllevägen 6, Karlshamn",mcd,small_red
+17.83136,59.23666,"McDonald´s - Kumlagårds Väg 30, Norsborg",mcd,small_red
+16.46965,59.61322,"McDonald´s - Hallstagårdsgatan 1, Västerås",mcd,small_red
+20.29569,63.85232,"McDonald´s - Överstevägen 3, Umeå",mcd,small_red
+16.51150,59.37162,"McDonald´s - Kriebsensgatan 6, Eskilstuna",mcd,small_red
+13.32799,55.84011,"McDonald´s - Vikhemsvägen 5, Eslöv",mcd,small_red
+17.89550,59.60686,"McDonald´s - Eurostop , Arlandastad",mcd,small_red
+12.90761,56.65612,"McDonald´s - Eurostop , Halmstad",mcd,small_red
+12.51732,56.93158,"McDonald´s - Falkenbergsmotet, Falkenberg",mcd,small_red
+13.57251,58.15944,"McDonald´s - Rastvägen 2, Falköping",mcd,small_red
+15.65321,60.60781,"McDonald´s - Bataljonsvägen 5, Falun",mcd,small_red
+18.09025,59.24275,"McDonald´s - Farstaplan, Farsta",mcd,small_red
+16.18879,58.58696,"McDonald´s - Drottninggatan 56, Norrköping",mcd,small_red
+16.43030,57.26318,"McDonald´s - S Fabriksgatan 2 B, Oskarshamn",mcd,small_red
+18.07452,59.31424,"McDonald´s - Folkungagatan 50, Stockholm",mcd,small_red
+17.64110,59.85747,"McDonald´s - Smedsgränd/Forumtorget, Uppsala",mcd,small_red
+11.91617,57.64673,"McDonald´s - Topasgatan 1D, Västra Frölunda",mcd,small_red
+11.91068,57.65147,"McDonald´s - Frölunda Torg , Västra Frölunda",mcd,small_red
+17.08429,59.65385,"McDonald´s - Traktorgatan 3, Enköping",mcd,small_red
+17.68053,59.85842,"McDonald´s - Fålhagsleden 73 , Uppsala",mcd,small_red
+17.90090,59.54929,"McDonald´s - Rastplats Stora Wäsby, Norrgående, Upplands Väsby",mcd,small_red
+13.00144,55.60295,"McDonald´s - Gustav AdolfsTorg 2, Malmö",mcd,small_red
+12.61313,59.66132,"McDonald´s - Åkaregatan 1, Arvika",mcd,small_red
+16.33614,56.67157,"McDonald´s - Polhemsgatan 6 , Kalmar",mcd,small_red
+18.08189,59.29318,"McDonald´s - Globen, Johanneshov",mcd,small_red
+18.30068,57.63769,"McDonald´s - Österväg 9, Visby",mcd,small_red
+17.141039,60.673912,"McDonald´s - Drottningatan 16-18, Gävle",mcd,small_red
+16.77083,60.62332,"McDonald´s - Gävlevägen 84, Sandviken",mcd,small_red
+11.96961,57.70755,"McDonald´s - Götgatan 16, Göteborg",mcd,small_red
+18.07600,59.30899,"McDonald´s - Götgatan 91, Stockholm",mcd,small_red
+16.21198,58.57397,"McDonald´s - Hageby Mirum Galleria, Timmermansgatan 40, Norrköping",mcd,small_red
+17.82924,59.24000,"McDonald´s - Sankt Botvidsväg 3, Norsborg",mcd,small_red
+12.85815,56.67447,"McDonald´s - Storgatan 13, Halmstad",mcd,small_red
+18.07215,59.33309,"McDonald´s - Hamngatan 8, Stockholm",mcd,small_red
+18.13958,59.16835,"McDonald´s - Stores Gränd 28, Haninge",mcd,small_red
+15.9914,60.2847,"McDonald´s - Hedemora, Hedemora",mcd,small_red
+13.01152,55.58237,"McDonald´s - Ystadsvägen 19 B, Malmö",mcd,small_red
+17.16345,60.65899,"McDonald´s - Södra Kungsvägen 28, Gävle",mcd,small_red
+17.91044,59.26635,"McDonald´s - Dialoggatan 2, Kungens Kurva",mcd,small_red
+18.05306,59.31784,"McDonald´s - Hornsgatan 88, Stockholm",mcd,small_red
+17.98191,59.23456,"McDonald´s - Sjödalstorget 17, Huddinge",mcd,small_red
+17.09981,61.73266,"McDonald´s - Kungsgatan 53, Hudiksvall",mcd,small_red
+12.97327,57.72034,"McDonald´s - Hultagatan 11, Borås",mcd,small_red
+12.8600,56.0991,"McDonald´s - Hyllinge - Dragaregatan 1, Hyllinge",mcd,small_red
+18.12185,59.44542,"McDonald´s - Flygsvängen 1, Täby",mcd,small_red
+17.935406,59.438911,"McDonald´s - Norra Malmvägen 80 C, Sollentuna",mcd,small_red
+16.62444,59.60934,"McDonald´s - Stockholmsvägen 142, Västerås",mcd,small_red
+17.9339,62.6338,"McDonald´s - Härnösand, Härnösand",mcd,small_red
+18.061158,59.334978,"McDonald´s - Kungsgatan 50, Stockholm",mcd,small_red
+16.15409,58.61936,"McDonald´s - Koppargatan 22, Norrköping",mcd,small_red
+14.15240,57.76304,"McDonald´s - Hagaleden 3, Jönköping",mcd,small_red
+12.91809,59.13552,"McDonald´s - Järnvägsgatan 4, Säffle",mcd,small_red
+14.17248,57.78233,"McDonald´s - Östra Storgatan 22, Jönköping",mcd,small_red
+18.09093,59.33812,"McDonald´s - Karlaplan 13, Stockholm",mcd,small_red
+14.52687,59.32514,"McDonald´s - Viaduktgatan 6, Karlskoga",mcd,small_red
+13.49700,59.37920,"McDonald´s - Drottninggatan 33 B, Karlstad",mcd,small_red
+12.69912,57.50471,"McDonald´s - Lyddevägen 5, Kinna",mcd,small_red
+17.94304,59.40403,"McDonald´s - Danmarksgatan 44, Kista",mcd,small_red
+16.07959,58.56871,"McDonald´s - Skärblackavägen 4, Norrköping",mcd,small_red
+12.69374,56.04451,"McDonald´s - Knutpunkten 15 , Helsingborg",mcd,small_red
+14.14822,59.31469,"McDonald´s - Bartilsbrovägen 5, Kristinehamn",mcd,small_red
+15.58491,56.16255,"McDonald´s - Affärshuset Kronan, Karlskrona",mcd,small_red
+17.91977,59.27411,"McDonald´s - Gamla Södertäljevägen 209, Huddinge",mcd,small_red
+12.07110,57.49199,"McDonald´s - Varlavägen, Kungsbacka",mcd,small_red
+12.05994,57.47399,"McDonald´s - Kungsbacka - Kollavarvsvägen 18, Kungsbacka",mcd,small_red
+18.0704,59.3362,"McDonald´s - Kungsgatan 4, Stockholm",mcd,small_red
+11.96781,57.70454,"McDonald´s - Kungsgatan 55-57, Göteborg",mcd,small_red
+11.9720,57.8755,"McDonald´s - Kungälv - Gymnasiegatan, Kungälv",mcd,small_red
+15.41686,60.48569,"McDonald´s - Kupolen Borlänge, Borlänge",mcd,small_red
+12.05023,57.60205,"McDonald´s - Ekenleden 3, Kållered",mcd,small_red
+12.85256,55.87122,"McDonald´s - Pumpgatan 5, Landskrona",mcd,small_red
+17.31747,62.38673,"McDonald´s - Landsvägsallén 10, Sundsvall",mcd,small_red
+12.31038,57.67930,"McDonald´s - Flygplatsvägen 12, Landvetter",mcd,small_red
+12.26284,57.12408,"McDonald´s - Äppelvägen 1A, Varberg",mcd,small_red
+18.02302,59.31049,"McDonald´s - Liljeholmstorget 94, Stockholm",mcd,small_red
+14.69205,63.17704,"McDonald´s - Hagvägen 1A, Östersund",mcd,small_red
+13.20341,61.15458,"McDonald´s - Lindvallen, Sälen",mcd,small_red
+17.89723,59.26503,"McDonald´s - Kungenskurvaleden 1, Kungens Kurva",mcd,small_red
+15.62529,58.40911,"McDonald´s - S:t Larsgatan 35, Linköping",mcd,small_red
+13.03298,55.55075,"McDonald´s - Bronsgjutaregatan 3, Malmö",mcd,small_red
+13.09063,55.68459,"McDonald´s - Bronsgatan 3, Lomma",mcd,small_red
+12.98934,55.76785,"McDonald´s - Marknadsvägen 7 - Center Syd, Löddeköpinge",mcd,small_red
+11.96848,57.70985,"McDonald´s - L:a Klädpressaregatan 4, Göteborg",mcd,small_red
+12.97647,55.56265,"McDonald´s - Hyllie Stationstorg 17, Malmö",mcd,small_red
+13.00309,55.59473,"McDonald´s - Friisgatan 2B, Malmö",mcd,small_red
+17.62928,59.19488,"McDonald´s - Västra Kanalgatan 1, Södertälje",mcd,small_red
+15.1367,59.2180,"McDonald´s - Marieberg Galleria, Varuvägen 10, Örebro",mcd,small_red
+13.81728,58.67844,"McDonald´s - Hammarsmedsgatan 31, Mariestad",mcd,small_red
+15.19061,60.15150,"McDonald´s - Tingshusgatan 13, Ludvika",mcd,small_red
+14.59051,61.00882,"McDonald´s - Skålmyrsvägen 35, Mora",mcd,small_red
+18.14830,59.17686,"McDonald´s - Vendelsövägen 15, Haninge",mcd,small_red
+16.21193,58.99576,"McDonald´s - Fabriksgatan 18, Katrineholm",mcd,small_red
+12.95675,56.50194,"McDonald´s - Söderleden 5, Mellbystrand ",mcd,small_red
+13.02886,55.60839,"McDonald´s - Lundavägen 26, Malmö",mcd,small_red
+15.09217,58.32372,"McDonald´s - Sparregatan 2, Mjölby",mcd,small_red
+22.13344,65.60276,"McDonald´s - Banvägen1, Luleå",mcd,small_red
+13.00396,55.58110,"McDonald´s - Per Albin Hanssons väg 40, Malmö",mcd,small_red
+17.66267,59.20040,"McDonald´s - Klastorpsvägen 4, Södertälje",mcd,small_red
+15.04390,58.53103,"McDonald´s - Södra Allén 3, Motala",mcd,small_red
+13.19640,55.70127,"McDonald´s - Mårtenstorget 12, Lund",mcd,small_red
+11.98506,57.64619,"McDonald´s - Jolengatan 3, Mölndal",mcd,small_red
+18.16089,59.31294,"McDonald´s - Vikdalsvägen 43, Nacka",mcd,small_red
+13.51994,59.39508,"McDonald´s - Östra infarten 3, Karlstad",mcd,small_red
+11.2112,59.0641,"McDonald´s - Nordby Köpcenter, Strömstad",mcd,small_red
+13.20147,55.72066,"McDonald´s - Skarpskyttevägen 1, Lund",mcd,small_red
+14.82823,56.90210,"McDonald´s - Norremarksvägen 4, Växjö",mcd,small_red
+13.85493,58.40664,"McDonald´s - Gustav Adolfsgatan  61, Skövde",mcd,small_red
+18.68659,59.74796,"McDonald´s - Stockholmsvägen 51, Norrtälje",mcd,small_red
+15.93372,56.73511,"McDonald´s - Norra vägen 2K, Nybro",mcd,small_red
+18.07790,59.33503,"McDonald´s - Nybrogatan 18, Stockholm",mcd,small_red
+18.10016,59.26252,"McDonald´s - Bogårdsvägen 30, Sköndal",mcd,small_red
+17.89814,59.54964,"McDonald´s - Rastplats Stora Wäsby, Södergående, Upplands Väsby",mcd,small_red
+11.96986,57.70856,"McDonald´s - Postgatan 28, Göteborg",mcd,small_red
+11.9333,57.7195,"McDonald´s - Rambergsvallen, Inlandsgatan 50, Göteborg",mcd,small_red
+18.06852,59.33083,"McDonald´s - Regeringsgatan 20, Stockholm",mcd,small_red
+13.05514,55.58390,"McDonald´s - Thomsons väg 1, Malmö",mcd,small_red
+17.94404,59.37997,"McDonald´s - Madenvägen 3, Sundbyberg",mcd,small_red
+12.93512,57.73281,"McDonald´s - Ålgårdsvägen 2, Borås",mcd,small_red
+13.84617,58.39031,"McDonald´s - Rådhusgatan 8, Skövde",mcd,small_red
+14.76413,56.88293,"McDonald´s - Hejaregatan 18, Växjö",mcd,small_red
+11.98695,57.69983,"McDonald´s - Valhallagatan 1, Göteborg",mcd,small_red
+18.06385,59.33356,"McDonald´s - Sergelgatan 4, Stockholm",mcd,small_red
+18.1287,59.3056,"McDonald´s - Siroccogatan 6, Nacka",mcd,small_red
+13.46068,58.39019,"McDonald´s - Vilangatan 6, Skara",mcd,small_red
+16.54956,59.61064,"McDonald´s - Aroscenter 1210, Västerås",mcd,small_red
+12.12537,57.74116,"McDonald´s - Gamla Kronvägen 66, Partille",mcd,small_red
+17.93039,59.64889,"McDonald´s - Arlanda Flygplats, Arlanda",mcd,small_red
+17.90709,59.27617,"McDonald´s - Bredholmsgatan 18, Skärholmen",mcd,small_red
+18.07379,59.31922,"McDonald´s - Katarinavägen 1-3, Stockholm",mcd,small_red
+18.01664,59.35282,"McDonald´s - Solnavägen 17, Solna",mcd,small_red
+13.23692,55.64253,"McDonald´s - Staffanstorp, Staffanstorp",mcd,small_red
+12.70483,56.05767,"McDonald´s - Ängelholmsvägen 8, Helsingborg",mcd,small_red
+16.56363,59.63641,"McDonald´s - Kraftlinjegatan 1, Västerås",mcd,small_red
+17.56102,59.84972,"McDonald´s - Fyrisparksvägen 1, Uppsala",mcd,small_red
+11.81754,58.06186,"McDonald´s - Stenunge allé 1, Stenungsund",mcd,small_red
+11.9921,57.7470,"McDonald´s - Importgatan 1, Hisings Backa",mcd,small_red
+13.81885,56.17062,"McDonald´s - Mackgatan 4, Hässleholm",mcd,small_red
+16.16553,58.60275,"McDonald´s - Apelgatan 18, Norrköping",mcd,small_red
+12.93844,57.73210,"McDonald´s - Bergslenagatan 8 , Borås",mcd,small_red
+17.0174,59.3285,"McDonald´s - Kvartsgatan 2, Strängnäs",mcd,small_red
+15.96640,59.51785,"McDonald´s - Ringvägen 80, Köping",mcd,small_red
+17.81084,59.46917,"McDonald´s - Skarprättarvägen 40, Järfälla",mcd,small_red
+17.96879,59.36206,"McDonald´s - Stationsgatan 1, Sundbyberg",mcd,small_red
+17.3302,62.4415,"McDonald´s - Sundsvall - Klökanvägen 3, Sundsvall",mcd,small_red
+18.05589,59.34345,"McDonald´s - Sveavägen 71, Stockholm",mcd,small_red
+13.24537,55.51567,"McDonald´s - Verkstadsgatan 11, Svedala",mcd,small_red
+15.82736,59.42578,"McDonald´s - Sätra Trafikplats Hamre, Arboga",mcd,small_red
+18.16063,59.18097,"McDonald´s - Österport 6, Haninge",mcd,small_red
+17.02815,61.29840,"McDonald´s - Pinassvägen 1, Söderhamn",mcd,small_red
+15.19817,59.26456,"McDonald´s - Södermalmsplan 1, Örebro",mcd,small_red
+13.90632,56.81418,"McDonald´s - Södra infarten - Ringvägen 1C, Ljungby",mcd,small_red
+18.03226,59.33373,"McDonald´s - S:t Eriksgatan 32, Stockholm",mcd,small_red
+15.59008,58.43264,"McDonald´s - Svedengatan 14, Linköping",mcd,small_red
+11.8092,58.3524,"McDonald´s - Torp Köpcentrum, Uddevalla",mcd,small_red
+14.07376,57.16311,"McDonald´s - Trafikplats Värnamo Södra, Värnamo",mcd,small_red
+13.12066,55.38405,"McDonald´s - Hedvägen 203, Trelleborg",mcd,small_red
+17.84152,59.19859,"McDonald´s - Bryggarevägen 5, Tumba",mcd,small_red
+18.23099,59.24928,"McDonald´s - Siklöjevägen 1, Tyresö",mcd,small_red
+18.07110,59.44490,"McDonald´s - Täby Centrum 168, Täby",mcd,small_red
+11.819100,59.510201,"McDonald´s - Linudden1, Töcksfors",mcd,small_red
+11.93268,58.34957,"McDonald´s - Kungsgatan 2, Uddevalla",mcd,small_red
+20.26189,63.82600,"McDonald´s - Västra Rådhusgatan 7 / Kungsgatan, Umeå",mcd,small_red
+17.92701,59.51494,"McDonald´s - Truckvägen 24, Upplands Väsby",mcd,small_red
+17.66792,59.88529,"McDonald´s - Takpannegatan 33, Uppsala",mcd,small_red
+17.66113,59.86809,"McDonald´s - Årstagatan 1-3 (Fyra Mackarnas Korsning), Uppsala",mcd,small_red
+16.99072,60.63233,"McDonald´s - Valbo Köpcentrum, Valbo",mcd,small_red
+15.57794,58.40655,"McDonald´s - Rydvägen 1, Linköping",mcd,small_red
+12.27662,57.16899,"McDonald´s - Gunnestorpsvägen 6, Varberg",mcd,small_red
+16.54652,59.60934,"McDonald´s - Vasagatan 11, Västerås",mcd,small_red
+18.05915,59.33108,"McDonald´s - Vasagatan 24, Stockholm",mcd,small_red
+15.64363,56.20409,"McDonald´s - Vedebygatan 3, Karlskrona",mcd,small_red
+15.09122,57.41573,"McDonald´s - Lasarettsgatan 68, Vetlanda",mcd,small_red
+14.14385,56.02319,"McDonald´s - Fäladsgatan 2, Kristianstad",mcd,small_red
+12.8008,58.0410,"McDonald´s - Wallentinsvägen 30 , Vårgårda",mcd,small_red
+13.47575,59.38373,"McDonald´s - Hagalundsvägen 31, Karlstad",mcd,small_red
+12.7565,56.0907,"McDonald´s - Välamarknaden 3, Ödåkra",mcd,small_red
+17.87512,59.36277,"McDonald´s - Ångermannagatan 157, Vällingby",mcd,small_red
+18.4270,59.3130,"McDonald´s - Fenix väg 2, Gustavsberg",mcd,small_red
+18.00039,59.29292,"McDonald´s - Kontrollvägen 17, Hägersten",mcd,small_red
+16.46705,59.39331,"McDonald´s - Västerleden 40, Eskilstuna",mcd,small_red
+16.63685,57.75969,"McDonald´s - Fiskartorget 1, Västervik",mcd,small_red
+15.17602,59.27341,"McDonald´s - Efter E18/E20, Örebro",mcd,small_red
+14.80273,56.87907,"McDonald´s - Storgatan 30, Växjö",mcd,small_red
+13.79134,55.43859,"McDonald´s - Granatvägen 2, Ystad, Ystad",mcd,small_red
+13.13872,58.49307,"McDonald´s - Tallskogsvägen 1, Lidköping",mcd,small_red
+18.28469,59.48065,"McDonald´s - Rallarvägen 1, Åkersberga",mcd,small_red
+18.04978,59.28648,"McDonald´s - Sockengränd 1, Årsta",mcd,small_red
+18.01251,59.27231,"McDonald´s - Gamla Huddingevägen 500, Älvsjö",mcd,small_red
+12.89303,56.25035,"McDonald´s - Klippanvägen 14, Ängelholm",mcd,small_red
+12.76108,56.01679,"McDonald´s - Rusthållsgatan 53 , Helsingborg",mcd,small_red
+15.20980,59.26983,"McDonald´s - Drottninggatan 36, Örebro",mcd,small_red
+13.3377,56.2842,"McDonald´s - Skåneporten 7, Örkelljunga",mcd,small_red
+14.63657,63.17867,"McDonald´s - Östersund - Prästgatan 24, Östersund",mcd,small_red
+12.30698,58.31444,"McDonald´s - Överby Köpcenter, Trollhättan",mcd,small_red
+12.53056,57.92361,"Hantverksgatan 1 Alingsås",max,small_blue
+21.70799,65.81734,"Lulevägen 27 Boden",max,small_blue
+16.38848,61.34853,"Postgränd 6 Bollnäs",max,small_blue
+15.43601,60.47693,"Åkrerondellen 7 Borlänge",max,small_blue
+12.93371,57.73401,"Ålgårdsvägen 16 Borås",max,small_blue
+17.08111,59.65278,"Romgatan 2 Enköping",max,small_blue
+16.47011,59.37484,"Albertina Nyströmsv. 3 Eskilstuna",max,small_blue
+16.46639,59.3925,"Västerleden 44 Eskilstuna",max,small_blue
+12.51805,56.93167,"Mellangårdsvägen 6 Falkenberg",max,small_blue
+15.64167,60.60444,"Tullkammaregatan 8 Falun",max,small_blue
+17.16041,60.66007,"S:a Kungsvägen 8 Gävle",max,small_blue
+17.13691,60.68083,"N:a Kungsgatan 45 Gävle",max,small_blue
+12.10513,57.73754,"Allum 252, Nils Henrikssonsv 3 Göteborg",max,small_blue
+11.98,57.706,"Gunnar Grens plats 1 Göteborg",max,small_blue
+12.02963,57.72397,"Torpavallsgatan 4C Göteborg",max,small_blue
+12.80364,56.67801,"Kundvägen 2 Halmstad",max,small_blue
+12.90812,56.65844,"Snösvängen 1 Halmstad",max,small_blue
+24.13335,65.84106,"Norra Esplanaden 8 Haparanda",max,small_blue
+12.70213,56.04054,"Södergatan 15 Helsingborg",max,small_blue
+12.76485,56.09213,"Björkavägen 103 Helsingborg",max,small_blue
+12.85204,56.09957,"Vångavägen 6 Helsingborg",max,small_blue
+14.22667,57.78056,"Hästhovsvägen 8 Jönköping",max,small_blue
+14.17614,57.77349,"Herkulesvägen 1 Jönköping",max,small_blue
+14.15294,57.76517,"Jordbrovägen 8 Jönköping",max,small_blue
+16.31586,56.69138,"Guldfågeln Arena, Trångsundsvägen 40 Kalmar",max,small_blue
+16.35389,56.6675,"Trädgårdsgatan 17 Kalmar",max,small_blue
+14.52571,59.32497,"Viaduktgatan 4 Karlskoga",max,small_blue
+15.63229,56.19543,"Lallerstedts gata 7 Karlskrona",max,small_blue
+13.42536,59.37901,"Bergviksväg 29A Karlstad",max,small_blue
+13.46839,59.38142,"Våxnäsgatan 158 Karlstad",max,small_blue
+14.14483,56.02249,"Gamla Långebrogatan 42 Kristianstad",max,small_blue
+15.97279,59.52036,"Ringvägen 74 Köping",max,small_blue
+15.65716,58.41762,"Torvingegatan 1 Linköping",max,small_blue
+15.59313,58.43483,"Svedengatan 11 Linköping",max,small_blue
+13.90722,56.8125,"Nyponvägen 2 Ljungby",max,small_blue
+22.1544,65.58531,"Timmermansgatan 19C Luleå",max,small_blue
+22.13859,65.60239,"Midgårdsvägen 24 Luleå",max,small_blue
+22.04153,65.61809,"Storhedsvägen 1C Luleå",max,small_blue
+22.14797,65.59006,"Robertviksgatan 1 Luleå",max,small_blue
+13.15624,55.71622,"Förhandlingsvägen 1 Lund",max,small_blue
+13.18172,55.71144,"Kung Oscars väg 14 Lund",max,small_blue
+12.98831,55.77137,"Handelsvägen 1 Löddeköpinge",max,small_blue
+12.97194,55.56361,"Hyllie Stationsväg 22 Malmö",max,small_blue
+13.00011,55.60554,"Stortorget 25 Malmö",max,small_blue
+13.03861,55.57195,"Cypressvägen 6a Malmö",max,small_blue
+15.08972,58.32389,"Armborstgatan 2 Mjölby",max,small_blue
+16.15944,58.61194,"Koppargatan 2b Norrköping",max,small_blue
+16.1898,58.59741,"Norra Promenaden 90A Norrköping",max,small_blue
+16.97857,58.74833,"Gumsbackevägen 2 Nyköping",max,small_blue
+17.02339,58.77317,"Stenbocksvägen 2 Nyköping",max,small_blue
+21.47412,65.32063,"Källbogatan 6 Piteå",max,small_blue
+20.95988,64.75089,"Kanalgatan 50 Skellefteå",max,small_blue
+20.96351,64.73857,"Mackvägen 7 Skellefteå",max,small_blue
+13.87419,58.40839,"Norra Metallvägen 2 Skövde",max,small_blue
+17.92853,59.64765,"Arlanda Stockholm",max,small_blue
+17.93443,59.65177,"Arlanda Stockholm",max,small_blue
+17.930795,59.651127,"Arlanda Stockholm",max,small_blue
+17.85438,59.4207,"Folkungav/G:a Enköpingsv Stockholm",max,small_blue
+18.10321,59.30215,"Öppen Lugnets Allé 22 Stockholm",max,small_blue
+17.92417,59.49583,"Breddenvägen 1 Stockholm",max,small_blue
+17.94658,59.40244,"Kista Galleria Stockholm",max,small_blue
+18.07174,59.33274,"Kungsträdgårdsgatan 20 Stockholm",max,small_blue
+18.12944,59.2,"Lissmavägen 24 Stockholm",max,small_blue
+17.854166,59.253163,"Fågelviksvägen 2 Stockholm",max,small_blue
+18.032167,59.346746,"Hagaesplanaden 46 Stockholm",max,small_blue
+17.99429,59.36046,"Huvudstagatan 2A Stockholm",max,small_blue
+18.12889,59.46,"Antennvägen 4 Stockholm",max,small_blue
+17.95695,59.35056,"Ulvsundavägen 160 Stockholm",max,small_blue
+18.05735,59.33234,"Vasagatan 7 Stockholm",max,small_blue
+17.8766,59.25138,"Masmovägen 2 Stockholm",max,small_blue
+18.42505,59.31207,"Afrodites väg 3 Stockholm",max,small_blue
+11.20562,59.06511,"Nordby köpcenter mellersta Strömstad",max,small_blue
+17.34406,62.44239,"Antennvägen 5 Sundsvall",max,small_blue
+17.31938,62.38698,"Landsvägsallén 5 Sundsvall",max,small_blue
+17.60931,59.20225,"Ängsgatan 37 Södertälje",max,small_blue
+12.29134,58.28535,"Kungsgatan 30 Trollhättan",max,small_blue
+12.30583,58.31553,"Anes väg 4 Trollhättan",max,small_blue
+11.81156,58.35169,"Herrestads Torp 310 Uddevalla",max,small_blue
+20.2645,63.8257,"Kungsgatan 63 Umeå",max,small_blue
+20.25942,63.82979,"V:a Esplanaden 20 Umeå",max,small_blue
+17.69103,59.85037,"Bolandsgatan 22 Uppsala",max,small_blue
+17.66553,59.88565,"Takpannegatan 33 Uppsala",max,small_blue
+17.65777,59.86868,"Kvarnängsgatan 53 Uppsala",max,small_blue
+17.63865,59.85886,"Stora Torget 6-8 Uppsala",max,small_blue
+18.30357,57.63749,"Scheelegatan 10 Visby",max,small_blue
+14.07426,57.16323,"Refugen 2 Värnamo",max,small_blue
+16.46757,59.6129,"Traversgatan 3 Västerås",max,small_blue
+16.6135,59.61269,"Fältmätargatan 26 Västerås",max,small_blue
+16.57,59.61333,"Retortgatan 16 Västerås",max,small_blue
+14.77521,56.87803,"Sambandsvägen 6 Växjö",max,small_blue
+13.82101,55.4291,"Hamngatan 3 Ystad",max,small_blue
+13.07803,63.40041,"Årevägen 108 H Åre",max,small_blue
+15.22371,59.26692,"Rudbecksgatan 52 E Örebro",max,small_blue
+15.13431,59.21289,"Kundvägen 2 Örebro",max,small_blue
+15.20349,59.29738,"Boglundsgatan 2 Örebro",max,small_blue
+18.7051,63.29073,"Stationsplan 9 Örnsköldsvik",max,small_blue
+14.64362,63.16759,"Bangårdsgatan 10 Östersund",max,small_blue
